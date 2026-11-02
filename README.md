@@ -1,10 +1,10 @@
 # GreenDevCorp: Foundational Server Administration
-Sysadmin project for Systems and Network Management subject.
+Sysadmin project for the *Systems and Network Management* course (GSX) at Universitat Rovira i Virgili, developed in a team of two.
 
-Tracks the lifecycle of an enterprise server maintainment and deployment, focusing on **Automation, Scalability, Security, and Monitoring**.
+Tracks the lifecycle of an enterprise server: maintenance and deployment, focusing on **Automation, Scalability, Security, and Monitoring**.
 
-> [!SUCCESS]  
-> **Status: Stable / Production Ready** > This project has successfully completed all 6 weeks of development and infrastructure deployment.
+> [!NOTE]
+> **Status: completed.** All six milestones of development and infrastructure deployment were delivered.
 
 ---
 
